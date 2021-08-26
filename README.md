@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+## 这里是Lyon
+
+## 正在主力开发
+1.PikaScript - 轻松为极小资源mcu提供python语法绑定。
+
 ![Lyon's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&layout=compact&theme=tokyonight)
 
 ![Lyon's github stats](https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&theme=tokyonight)
