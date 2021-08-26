@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Lyon's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mimibot&layout=compact&theme=tokyonight)
+
+![Lyon's github stats](https://github-readme-stats.vercel.app/api?username=mimibot&show_icons=true&theme=tokyonight)
 <!--
 **mimilib/mimilib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
