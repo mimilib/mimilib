@@ -5,7 +5,7 @@
 ## 正在主力开发
 1.PikaScript脚本框架 - 轻松为极小资源mcu提供python语法绑定。
 
-## Contact Me
+## 联系我
 E-mail: 645275593@qq.com
 
 Tencent QQ: 645275593
