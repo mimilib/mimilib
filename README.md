@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
 ### Hi there 👋
 
 ## 这里是Lyon
@@ -9,8 +11,6 @@
 E-mail: 645275593@qq.com
 
 Tencent QQ: 645275593
-
-![Lyon's github stats](https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&theme=tokyonight)
 
 ![Lyon's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&layout=compact&theme=tokyonight)
 
