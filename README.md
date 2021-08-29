@@ -4,7 +4,7 @@
 
 ## 这里是Lyon
 
-![Lyon's most used lang](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&layout=compact&theme=tokyonight)
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&layout=compact&theme=tokyonight" />
 
 ## 正在主力开发
 [1.PikaScript脚本框架](https://github.com/mimilib/pikascript) - 轻松为极小资源mcu提供python语法绑定。
