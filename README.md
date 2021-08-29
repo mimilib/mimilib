@@ -1,5 +1,4 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&theme=tokyonight" />
-<img align="down" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&layout=compact&theme=tokyonight" />
 
 ### Hi there 👋
 
