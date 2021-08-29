@@ -6,6 +6,9 @@
 ## 正在主力开发
 [1.PikaScript脚本框架](https://github.com/mimilib/pikascript) - 轻松为极小资源mcu提供python语法绑定。
 
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KAAAsS&langs_count=8)
+
 ## 联系我
 E-mail: 645275593@qq.com
 
