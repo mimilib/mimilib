@@ -1,7 +1,5 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&theme=tokyonight" />
 
-### Hi there 👋
-
 ## 这里是Lyon
 
 
