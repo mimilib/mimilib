@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## 这里是Lyon
 
@@ -7,7 +7,7 @@
 [1.PikaScript脚本框架](https://github.com/mimilib/pikascript) - 轻松为极小资源mcu提供python语法绑定。
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&langs_count=8&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 ## 联系我
 E-mail: 645275593@qq.com
