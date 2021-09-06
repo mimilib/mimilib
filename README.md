@@ -3,7 +3,11 @@
 # 这里是Lyon
 
 ## 正在主力开发
-[1.PikaScript脚本框架](https://github.com/mimilib/pikascript) - 轻松为极小资源mcu提供python语法绑定。
+[1.PikaScript脚本框架](https://github.com/pikasTech/pikascript) - 轻松为极小资源mcu提供python语法绑定。
+
+## 已经开发完毕
+
+[2.基于STM32的六足机器人控制算法](https://github.com/pikasTech/hexapod-robot-stm32)
 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
