@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mimilib&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=pikasTech&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 # 这里是Lyon
 
@@ -10,7 +10,7 @@
 [2.基于STM32的六足机器人](https://github.com/pikasTech/hexapod-robot-stm32) - 自动生成三角步态，支持全向行进与自动姿态调整
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mimilib&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikasTech&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 ## 联系我
 E-mail: 645275593@qq.com
