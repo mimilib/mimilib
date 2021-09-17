@@ -8,7 +8,7 @@
 ## 已经开发完毕
 
 [2.基于STM32的六足机器人](https://github.com/pikasTech/hexapod-robot-stm32) - 自动生成三角步态，支持全向行进与自动姿态调整
-
+[3.MDK keil 仿On Dark暗色主题](https://github.com/pikasTech/MDK-keil-theme-one-dark) 
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikasTech&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
