@@ -3,7 +3,7 @@
 # 这里是Lyon
 
 ## 正在主力开发
-[1.PikaScript脚本框架](https://github.com/pikasTech/pikascript) - 轻松为极小资源mcu提供python语法绑定。
+[1.PikaPython 物联网脚本引擎](https://github.com/pikasTech/pikascript) - 轻松为极小资源mcu提供python语法绑定。
 
 ## 已经开发完毕
 
@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pikasTech&langs_count=8&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true)
 
 ## 联系我
-E-mail: 645275593@qq.com
+E-mail: liang6516@outlook.com
 
 <!--
 **mimilib/mimilib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
