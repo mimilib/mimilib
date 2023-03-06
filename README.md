@@ -17,9 +17,6 @@
 ## 联系我
 E-mail: 645275593@qq.com
 
-Tencent QQ: 645275593
-
-
 <!--
 **mimilib/mimilib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
